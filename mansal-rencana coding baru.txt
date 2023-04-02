@@ -1,5 +1,6 @@
 rencana coding
 -php framework
 -belajar laravel
--belajar golang terbaru
--belajar c
+-belajar python
+-belajar ruby
+
